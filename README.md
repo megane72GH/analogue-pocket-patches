@@ -10,6 +10,7 @@ Please open issues if you find bugs.
 
 ### Interested in making your own patches? 
 Check out the marvelous [TUTORIAL](https://github.com/treyturner/analogue-pocket-patches/blob/main/TUTORIAL.md) made by [Trey Turner](https://github.com/treyturner)
+
 I also take some hints form this [GUIDE](https://tutorials.eeems.ca/Z80ASM/index.htm), it is a Z80 Assembly guide, but the Gameboy is a Sharp LR35902 (a 8 bit modified, derived from Zilog Z80)
 
 ## The Legend of Zelda: Link's Awakening DX (Italian Translation)
