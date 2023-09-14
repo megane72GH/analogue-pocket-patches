@@ -11,7 +11,7 @@ Please open issues if you find bugs.
 ### Interested in making your own patches? 
 Check out the marvelous [TUTORIAL](https://github.com/treyturner/analogue-pocket-patches/blob/main/TUTORIAL.md) made by [Trey Turner](https://github.com/treyturner)
 
-I also take some hints form this [GUIDE](https://tutorials.eeems.ca/Z80ASM/index.htm), it is a Z80 Assembly guide, but the Gameboy is a Sharp LR35902 (a 8 bit modified, derived from Zilog Z80)
+I also take some hints form this [GUIDE](https://tutorials.eeems.ca/Z80ASM/index.htm), it is a Z80 Assembly guide, but the Gameboy is a Sharp LR35902 (a 8 bit modified, derived from Zilog Z80), so 90% of it will work.
 
 ## The Legend of Zelda: Link's Awakening DX (Italian Translation)
 
@@ -27,4 +27,4 @@ This patch converts `Pokemon - Versione Blu (Italy)` to the `.pocket` format.
 
 ROM MD5: `ebe0742b472b3e80a9c6749f06181073`
 
-You can [download the Analogue Pocket IPS patch here]([Pokemon - Versione Blu (Italy) (SGB Enhanced)[Pocket Conversion v1.0].ips](https://github.com/megane72GH/analogue-pocket-patches/raw/main/Pokemon%20-%20Versione%20Blu%20(Italy)%20(SGB%20Enhanced)%5BPocket%20Conversion%20v1.0%5D.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/megane72GH/analogue-pocket-patches/raw/main/Pokemon%20-%20Versione%20Blu%20(Italy)%20(SGB%20Enhanced)%5BPocket%20Conversion%20v1.0%5D.ips).
