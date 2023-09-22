@@ -37,6 +37,14 @@ ROM MD5: `6468fb0652dde30eb968a44f17c686f1`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/megane72GH/analogue-pocket-patches/raw/main/Pokemon%20-%20Versione%20Rossa%20(Italy)%20(SGB%20Enhanced)%5BPocket%20Conversion%20v1.0%5D.ips).
 
+## Pokemon - Versione Cristallo (Italy)
+
+This patch converts `Pokemon - Versione Cristallo (Italy)` to the `.pocket` format. 
+
+ROM MD5: `7c513823f65b92a75e29067745839cc8`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/megane72GH/analogue-pocket-patches/raw/main/Pokemon%20-%20Versione%20Cristallo%20(Italy)%5BPocket%20Conversion%20v1.0%5D.ips).
+
 ## Urusei Yatsura: Miss Tomobiki o sagase! (Japan) (Italian Translation)
 
 This patch converts `Urusei Yatsura: Miss Tomobiki o sagase! (Japan) (Italian Translation)` to the `.pocket` format. First, apply the [Italian Translation patch](https://www.romhacking.net/translations/6939/), resulting in the MD5 below, then apply this patch.
